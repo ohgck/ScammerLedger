@@ -1,107 +1,92 @@
 # 🛡️ ScammerLedger
 
-ScammerLedger is a **constantly updated, public ledger of confirmed Discord scam reports**, maintained for transparency, community safety, and responsible moderation.
+ScammerLedger is a **constantly updated public list of confirmed Discord scam reports**.  
+It is made to help communities, developers, and researchers improve safety and awareness.
 
-This repository provides a **read-only dataset** sourced from a trusted Discord reporting environment and published for open use.
+This repository is **read-only** and exists only to share the data.
 
 ---
 
-## Purpose
+## Why This Exists
 
-Online scams harm communities every day.  
-ScammerLedger exists to make **verified scam reports easier to reference**, easier to audit, and harder to manipulate.
+Online scams cause real harm.  
+ScammerLedger exists to make confirmed scam reports easier to find, review, and reference in one place.
 
-The goal is **visibility and accountability**, not punishment.
+The goal is **transparency and safety**, not punishment.
 
 ---
 
 ## What This Repository Is
 
-- A public, versioned record of confirmed scam-related Discord accounts
-- A shared reference for moderation tools, researchers, and safety projects
-- A single, authoritative source that updates continuously
-
-This repository contains **data only**.
+- A public list of confirmed scam-related Discord accounts
+- A shared reference for safety tools and moderation projects
+- A single, always-updating source of information
 
 ---
 
 ## What This Repository Is Not
 
-- ❌ A ban list  
-- ❌ A moderation system  
-- ❌ A replacement for human judgment  
-- ❌ A real-time enforcement tool  
-
-Inclusion in this dataset does **not** imply guilt beyond the context of the original report.
+- Not a ban list
+- Not an enforcement system
+- Not an official decision-making authority
 
 ---
 
-## Data Source
+## Where the Data Comes From
 
-All entries are sourced from a **moderator-controlled Discord reporting server**.
+All entries come from a **moderator-controlled Discord reporting server**.
 
-- Only confirmed listings are included
-- Reports that are later resolved or corrected are removed
-- The source Discord channel remains the **single point of truth**
-
-Strikethrough or removal at the source results in removal here.
+Only confirmed reports are included.  
+If a report is corrected or removed at the source, it is also removed from this dataset.
 
 ---
 
-## Update Policy
+## How the Data Is Updated
 
-- The dataset is rebuilt regularly
-- Changes are published in batches
-- Additions and removals are visible via version history
+- The list is updated regularly
+- Additions and removals are visible through the repository history
 
-This ensures the data remains **current, auditable, and consistent**.
+This helps keep the data accurate and up to date.
 
 ---
 
-## Intended Use
+## How It Can Be Used
 
-ScammerLedger may be used by:
+ScammerLedger can be used by:
 
+- Discord safety bots
 - Community moderation tools
-- Discord safety or checker bots
-- Researchers and analysts
-- Transparency and trust initiatives
+- Trust and transparency projects
 
-Consumers are encouraged to:
-- Fetch updates periodically
-- Cache responsibly
-- Treat this dataset as **one signal among many**
+It should be used as **one signal**, not the only source of truth.
 
 ---
 
 ## Responsible Use
 
-To avoid misuse or harm:
+To avoid mistakes or harm:
 
-- Do **not** rely on this dataset as the sole basis for enforcement
-- Always allow for context, review, and appeal
-- Avoid automated punitive actions without human oversight
+- Do not rely on this list alone for actions
+- Always review context and evidence
+- Allow for review and appeal where possible
 
-This project prioritizes **accuracy over speed** and **fairness over automation**.
+Human oversight is strongly recommended.
 
 ---
 
-## Privacy & Scope
+## Privacy
 
-- No private data is stored
-- No message content is archived
-- Only public Discord usernames and IDs are included
-- No tracking, profiling, or behavioral analysis is performed
+- No private information is stored
+- No message content is saved
+- Only public Discord usernames and user IDs are listed
 
 ---
 
 ## Transparency
 
-- All changes are public
-- All updates are versioned
-- Anyone can audit additions and removals
-
-ScammerLedger is designed to be **open, inspectable, and accountable**.
+- All updates are public
+- Changes can be reviewed at any time
+- The dataset is open and auditable
 
 ---
 
@@ -110,13 +95,13 @@ ScammerLedger is designed to be **open, inspectable, and accountable**.
 This dataset is licensed under the  
 **Creative Commons Attribution–NoDerivatives 4.0 International License (CC BY-ND 4.0)**.
 
-You are free to use and redistribute the data, including for commercial purposes, **as long as it remains unmodified** and attribution is provided.
+You may use and share the data, including for commercial purposes, as long as it is **not modified**.
 
 ---
 
 ## Disclaimer
 
 ScammerLedger is provided for informational purposes only.  
-It is not affiliated with :contentReference[oaicite:0]{index=0} and does not make moderation decisions on behalf of any platform.
+It is not affiliated with Discord.
 
-All responsibility for interpretation and use rests with the consumer.
+How this data is used is the responsibility of the user.
