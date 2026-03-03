@@ -108,9 +108,10 @@ Running the bot, servers, and maintenance takes time and resources.
 If you want to support the project, you can:
 
 **Buy us a coffee:**  
-https://buymeacoffee.com/YOUR_LINK_HERE
+LTC :LUXTtpTL2E1d74mpa2nc6QShnwLsbKKcEL
+BTC : bc1qn47mxljjaddxkkjvxtghmgkjmmsazgk02wfay3
 
-Your support helps keep the project running and improving.
+Your support helps keep the project running and improving. Thank you <3
 
 ---
 
